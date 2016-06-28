@@ -1,6 +1,6 @@
 # Pre-work - *ToDo App*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**ToDo App** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Michael Manduca**
 
@@ -19,13 +19,13 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/E6sTziS' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/E6sTziS.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Most of the challenges when building this app came from setting up the actual build environment. Once that was working smoothly I used most of the time familiarizing myself with Intents, and passing data between them properly.
 
 ## License
 
